@@ -9,7 +9,7 @@ public class SamePart {
 		map.put("req", req);
 		map.put("res", res);
 		map.remove(res);
-		System.out.println("testCommit");
+		System.out.println("testCommitYangyang");
 		return map;
 		
 	}
